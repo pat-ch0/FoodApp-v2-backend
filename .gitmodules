@@ -10,3 +10,6 @@
 [submodule "myown-service-registery"]
 	path = myown-service-registery
 	url = https://github.com/Azzary/myown-service-registery
+[submodule "services/user"]
+	path = services/user
+	url = https://github.com/Darklevfr/user.git
