@@ -16,3 +16,5 @@
 [submodule "services/analytics"]
 	path = services/analytics
 	url = https://github.com/IBassaoud/FoodApp-analytics
+	branch = main
+
