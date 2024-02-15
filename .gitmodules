@@ -13,3 +13,6 @@
 [submodule "services/user"]
 	path = services/user
 	url = https://github.com/Darklevfr/user.git
+[submodule "services/analytics"]
+	path = services/analytics
+	url = https://github.com/IBassaoud/FoodApp-analytics
