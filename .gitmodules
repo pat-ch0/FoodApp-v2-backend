@@ -4,3 +4,6 @@
 [submodule "myown-gateway"]
 	path = myown-gateway
 	url = https://github.com/Azzary/myown-gateway
+[submodule "myown_notification"]
+	path = myown_notification
+	url = https://github.com/Azzary/myown_notification
