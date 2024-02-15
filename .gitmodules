@@ -1,0 +1,3 @@
+[submodule "services/product"]
+	path = services/product
+	url = https://github.com/Azzary/product
