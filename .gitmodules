@@ -1,3 +1,6 @@
 [submodule "services/product"]
 	path = services/product
 	url = https://github.com/Azzary/product
+[submodule "myown-gateway"]
+	path = myown-gateway
+	url = https://github.com/Azzary/myown-gateway
