@@ -7,3 +7,6 @@
 [submodule "services/notification"]
 	path = services/notification
 	url = https://github.com/Azzary/myown_notification
+[submodule "myown-service-registery"]
+	path = myown-service-registery
+	url = https://github.com/Azzary/myown-service-registery
