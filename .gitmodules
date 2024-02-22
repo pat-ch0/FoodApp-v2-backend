@@ -21,3 +21,6 @@
 [submodule "services/product-stock"]
 	path = services/product-stock
 	url = https://github.com/Azzary/product-stock
+[submodule "services/ai"]
+	path = services/ai
+	url = https://github.com/Azzary/ai-service
