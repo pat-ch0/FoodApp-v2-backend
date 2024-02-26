@@ -7,6 +7,7 @@
 [submodule "services/notification"]
 	path = services/notification
 	url = https://github.com/Azzary/myown_notification
+	branch = devel
 [submodule "myown-service-registery"]
 	path = myown-service-registery
 	url = https://github.com/Azzary/myown-service-registery
@@ -21,6 +22,7 @@
 [submodule "services/product-stock"]
 	path = services/product-stock
 	url = https://github.com/Azzary/product-stock
+	branch = devel
 [submodule "services/ai"]
 	path = services/ai
 	url = https://github.com/Azzary/ai-service
