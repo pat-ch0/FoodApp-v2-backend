@@ -26,3 +26,6 @@
 [submodule "services/ai"]
 	path = services/ai
 	url = https://github.com/Azzary/ai-service
+[submodule "services/community"]
+	path = services/community
+	url = https://github.com/Azzary/community
